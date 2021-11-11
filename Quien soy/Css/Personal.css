@@ -269,8 +269,9 @@ a {
 
 /*Footer*/
  footer{
-    background: #f8ededb7;
+    background: #F3F1F5;
     padding-bottom: 0.1px;
+    font-family: 'Oxygen', sans-serif;
 }
 
 .foooter-content{
